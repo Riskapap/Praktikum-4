@@ -1,6 +1,6 @@
 # Praktikum-4
 
-##Langkahnya
+## Langkahnya
 
 1. membuat list
 - nilai = []
